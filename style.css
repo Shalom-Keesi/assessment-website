@@ -1,0 +1,127 @@
+#body{
+    background-color: pink;
+}
+#topnav{
+    background-color: rgb(15, 59, 15);
+    display: flex;
+    color: white;
+    font-size: x-small;
+    justify-content: space-evenly;
+}
+#bottom-nav{
+    display: flex;
+    gap: 5%;
+
+}
+#nav{
+    
+}
+#bemis{
+    font-weight: bold;
+
+}
+.icons{
+    zoom: 43%;
+}
+.shopping-bag{
+    zoom: 42%;
+}
+.hat{
+    zoom:35%
+
+}
+.shop{
+    text-decoration: underline;
+
+}
+#stylish{
+    font-size:255%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+#section1{
+    display: flex;
+    gap: 5%;
+}
+.clothes{
+    margin-top: 15%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.latest{
+    margin-bottom: 25px;
+}
+.topic{
+    display: flex;
+    justify-content: space-evenly;
+    color: darkgray;
+}
+#latest-products{
+    text-decoration: underline;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#closet{
+    display: flex;
+    gap: 5%;
+}
+.photo{
+    zoom: 45%;
+}
+.images{
+    display: flex;
+    gap: 15%;
+}
+.cotton{
+    display: flex;
+    gap: 5%;
+    margin-left: 5%;
+
+}
+#word{
+    text-align: center;
+    font-weight: bold;
+}
+#autumn{
+    display: flex;
+
+}
+.button-shop{
+    padding: 2px 5px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#follow{
+    margin-top: 5%;
+}
+.socials{
+    text-align: center;
+    font-weight: bold;
+}
+.follow-photo{
+    zoom: 35%;
+}
+#footer{
+    margin-top: 7%;
+    display: flex;
+    justify-content: space-evenly;
+}
+#input{
+    padding-right: 2px;
+    padding-right: 1px;
+}
+.title{
+    font-weight: bold;
+}
+#facebook{
+    zoom: 5%;
+    margin-top: 1px;
+}
+#button-submit{
+    background-color: black;
+    color: white;
+}
+@media screen and (min-width:250px)and (max-width:430px){
+    
+}
